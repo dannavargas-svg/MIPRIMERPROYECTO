@@ -1,7 +1,7 @@
 # Mi nombre aquí
 
 ## Sobre mí
-- Carrera:
+- Carrera: Licenciatura en ingenieria de software
 - Semestre:
 - Una cosa que espero aprender hoy:
 
