@@ -7,6 +7,7 @@
 
 ## Mi frase favorita
 > Escribe aquí una frase que te guste.
+aun quedan muchas primeras veces
 
 ## Herramientas del curso
 
